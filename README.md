@@ -12,4 +12,4 @@ Greetings and welcome to my collection of activities and projects! Enclosed, you
 - [3B-JAVIER-EXER1](https://github.com/simon-javier/CSST102-3B/tree/main/3B-JAVIER-EXER1)
 - [3B-JAVIER-EXER2](https://github.com/simon-javier/CSST102-3B/tree/main/3B-JAVIER-EXER2)
 - [3B-JAVIER-EXER3](https://github.com/simon-javier/CSST102-3B/tree/main/3B-JAVIER-EXER3)
-
+- [3B-JAVIER-FINAL-PROJECT](https://github.com/simon-javier/CSST102-Final-Project/tree/04fb3ffc0dcb83b2cca6eceaa065e8c66f8d29fb)
